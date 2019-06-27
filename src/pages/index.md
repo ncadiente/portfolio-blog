@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: Hey there!
+title: Hey there! My name is Nick Cadiente.
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: I'm a full stack developer who loves modern web tech.
 mainpitch:
-  title: Why Kaldi
+  title: My Story
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
@@ -68,3 +68,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
