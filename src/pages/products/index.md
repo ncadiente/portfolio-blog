@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-title: Here is some of my work
+title: 'Werk, werk, werk, werk, work'
 image: /img/jumbotron.jpg
 heading: Projects
 description: Primarily full stack javascript applications
