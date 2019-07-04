@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Hey there! My name is Nick Cadiente.
-image: /img/home-jumbotron.jpg
+image: /img/surfboards.jpg
 heading: Great coffee with a conscience
 subheading: I'm a full stack developer who loves modern web tech.
 mainpitch:
